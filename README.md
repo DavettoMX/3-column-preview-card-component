@@ -28,7 +28,7 @@ Users should be able to:
 ![]("./img/desktop.png")
 
 #### Mobile View
-![]("./img/desktop.png")
+![]("./img/mobile.png")
 
 
 ### Links
