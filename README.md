@@ -25,10 +25,10 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop View
-![]("img/desktop.png")
+![]("./img/desktop.png")
 
 #### Mobile View
-![]("img/desktop.png")
+![]("./img/desktop.png")
 
 
 ### Links
